@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Aditya Damodaran](mailto:aditya.damodaran@owasp.org)
+* [Soufiane Zirak](mailto:soufiane.zirak@owasp.org)
