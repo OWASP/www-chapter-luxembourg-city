@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Luxembourg City
-tags: example-tag
+tags: 
 region: Europe
 country: Luxembourg
 meetup-group:
