@@ -1,0 +1,32 @@
+community:
+  - name: chapter-luxembourg
+    platform: slack
+    url: https://owasp.slack.com/archives/C02E43927A9
+    description: Channel dedicated to the Luxembourg chapter
+leaders:
+  - name: Aditya Damodaran
+    email: aditya.damodaran@owasp.org
+    github: AdityaDamodaran
+  - name: Soufiane Zirak
+    email: soufiane.zirak@owasp.org
+  - name: Mickael Ambiehl
+    email: mickael.ambiehl@owasp.org
+  - name: Julien Vanel
+    email: julien.vanel@owasp.org
+location:
+  country: Luxembourg
+  country_code: LU
+  region: Luxembourg
+  city: Luxembourg City
+  latitude: 49.5999681
+  longitude: 6.1342493
+name: OWASP Luxembourg City
+repositories:
+  - name: www-chapter-luxembourg-city
+    url: https://github.com/OWASP/www-chapter-luxembourg-city
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-luxembourg-city
